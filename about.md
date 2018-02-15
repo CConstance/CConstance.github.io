@@ -2,7 +2,7 @@
 layout: page
 title: About
 comments: false
-mathjax: true
+mathjax: false
 permalink: /about/
 ---
 
