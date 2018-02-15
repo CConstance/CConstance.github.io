@@ -16,5 +16,4 @@ For those intersted in connecting with me professionally, you can find me at Lin
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="thejonathanhui"><a class="LI-simple-link" href='https://www.linkedin.com/in/%E6%99%93%E5%93%B2-%E5%A7%9A-a07a57a5/'>Xiaozhe Yao</a></div>
-
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="zh_CN" data-type="horizontal" data-theme="dark" data-vanity="晓哲-姚-a07a57a5"><a class="LI-simple-link" href='https://cn.linkedin.com/in/%E6%99%93%E5%93%B2-%E5%A7%9A-a07a57a5?trk=profile-badge'>Xiaozhe Yao</a></div>
